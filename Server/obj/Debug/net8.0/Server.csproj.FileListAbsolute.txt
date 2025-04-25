@@ -71,3 +71,4 @@ D:\UDPsocket\Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlC
 D:\UDPsocket\Server\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
 D:\UDPsocket\Server\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
 D:\UDPsocket\Server\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\UDPsocket\Server\obj\Debug\net8.0\Server.sourcelink.json

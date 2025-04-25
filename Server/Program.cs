@@ -205,7 +205,7 @@ namespace Server
                 }
                 //active_Client.Dispose();
                 await Sign_Up_Request(list_Client.Last().tcp, receive);
-                Task main_task = Task.Run(async()=>process_Request(list_Client.Last(),list_Client));
+                Task main_task = Task.Run(async()=>await process_Request(list_Client.Last(),list_Client));
                 list_Task.Add(main_task);
             }
             await Task.WhenAll(list_Task);
@@ -236,6 +236,7 @@ namespace Server
             {
                 Console.WriteLine("xD");
             }
+            Console.WriteLine("Hello world");
             Console.WriteLine($"{Type_Packet.DATA.ToString()} + receive.des + receive.source + receive.data");
             await Send_Request(des_client_name.tcp, new Send_Form(Type_Packet.DATA, receive.des, receive.source, receive.data));
         }
