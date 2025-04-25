@@ -1,0 +1,17 @@
+D:\UDPsocket\Client3\bin\Debug\net8.0\Client3.exe
+D:\UDPsocket\Client3\bin\Debug\net8.0\Client3.deps.json
+D:\UDPsocket\Client3\bin\Debug\net8.0\Client3.runtimeconfig.json
+D:\UDPsocket\Client3\bin\Debug\net8.0\Client3.dll
+D:\UDPsocket\Client3\bin\Debug\net8.0\Client3.pdb
+D:\UDPsocket\Client3\obj\Debug\net8.0\Client3.GeneratedMSBuildEditorConfig.editorconfig
+D:\UDPsocket\Client3\obj\Debug\net8.0\Client3.AssemblyInfoInputs.cache
+D:\UDPsocket\Client3\obj\Debug\net8.0\Client3.AssemblyInfo.cs
+D:\UDPsocket\Client3\obj\Debug\net8.0\Client3.csproj.CoreCompileInputs.cache
+D:\UDPsocket\Client3\obj\Debug\net8.0\Client3.dll
+D:\UDPsocket\Client3\obj\Debug\net8.0\refint\Client3.dll
+D:\UDPsocket\Client3\obj\Debug\net8.0\Client3.pdb
+D:\UDPsocket\Client3\obj\Debug\net8.0\Client3.genruntimeconfig.cache
+D:\UDPsocket\Client3\obj\Debug\net8.0\ref\Client3.dll
+D:\UDPsocket\Client3\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\UDPsocket\Client3\obj\Debug\net8.0\Client3.csproj.AssemblyReference.cache
+D:\UDPsocket\Client3\obj\Debug\net8.0\Client3.csproj.Up2Date

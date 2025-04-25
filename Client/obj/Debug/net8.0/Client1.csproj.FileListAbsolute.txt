@@ -1,0 +1,17 @@
+D:\UDPsocket\Client\bin\Debug\net8.0\Client1.exe
+D:\UDPsocket\Client\bin\Debug\net8.0\Client1.deps.json
+D:\UDPsocket\Client\bin\Debug\net8.0\Client1.runtimeconfig.json
+D:\UDPsocket\Client\bin\Debug\net8.0\Client1.dll
+D:\UDPsocket\Client\bin\Debug\net8.0\Client1.pdb
+D:\UDPsocket\Client\obj\Debug\net8.0\Client1.GeneratedMSBuildEditorConfig.editorconfig
+D:\UDPsocket\Client\obj\Debug\net8.0\Client1.AssemblyInfoInputs.cache
+D:\UDPsocket\Client\obj\Debug\net8.0\Client1.AssemblyInfo.cs
+D:\UDPsocket\Client\obj\Debug\net8.0\Client1.csproj.CoreCompileInputs.cache
+D:\UDPsocket\Client\obj\Debug\net8.0\Client1.dll
+D:\UDPsocket\Client\obj\Debug\net8.0\refint\Client1.dll
+D:\UDPsocket\Client\obj\Debug\net8.0\Client1.pdb
+D:\UDPsocket\Client\obj\Debug\net8.0\Client1.genruntimeconfig.cache
+D:\UDPsocket\Client\obj\Debug\net8.0\ref\Client1.dll
+D:\UDPsocket\Client\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\UDPsocket\Client\obj\Debug\net8.0\Client1.csproj.AssemblyReference.cache
+D:\UDPsocket\Client\obj\Debug\net8.0\Client1.csproj.Up2Date

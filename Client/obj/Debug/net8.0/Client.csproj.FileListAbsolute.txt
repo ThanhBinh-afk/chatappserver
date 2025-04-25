@@ -1,0 +1,14 @@
+D:\UDPsocket\Client\bin\Debug\net8.0\Client.exe
+D:\UDPsocket\Client\bin\Debug\net8.0\Client.deps.json
+D:\UDPsocket\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+D:\UDPsocket\Client\bin\Debug\net8.0\Client.dll
+D:\UDPsocket\Client\bin\Debug\net8.0\Client.pdb
+D:\UDPsocket\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\UDPsocket\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+D:\UDPsocket\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+D:\UDPsocket\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+D:\UDPsocket\Client\obj\Debug\net8.0\Client.dll
+D:\UDPsocket\Client\obj\Debug\net8.0\refint\Client.dll
+D:\UDPsocket\Client\obj\Debug\net8.0\Client.pdb
+D:\UDPsocket\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+D:\UDPsocket\Client\obj\Debug\net8.0\ref\Client.dll
